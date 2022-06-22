@@ -5,6 +5,6 @@ This project has been developed at the Digital Humanities, University of Bern, W
 by the following people:
 
 * Peter Daengeli
-* 
-* This project has been released under the ISC licence. See the `LICENCE.ISC`
+
+This project has been released under the ISC licence. See the `LICENCE.ISC`
 file or <http://opensource.org/licenses/ISC> for more details.
